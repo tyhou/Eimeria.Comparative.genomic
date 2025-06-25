@@ -1,0 +1,5 @@
+Gene	log2TPM_spo	log2TPM_unspo
+E_sti_137.1053	10.39 	8.16 
+E_sti_59.5809	4.19 	2.84 
+E_sti_172.1939	2.78 	2.41 
+E_sti_44.4788	9.45 	2.24 
